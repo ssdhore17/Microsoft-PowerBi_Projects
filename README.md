@@ -12,7 +12,7 @@ This data analysis project aims to provides insights into the Sales performance 
 
 ### Data Sources 
 
- Food and Beverages  : The primary dataset used for this analysis is the "" file, containing information about the sales .
+ Food and Beverages  : The primary dataset used for this analysis is the " " file, containing information about the sales .
 
  ### Tools 
 
